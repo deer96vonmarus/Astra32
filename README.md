@@ -215,4 +215,4 @@ ASTRA32 is available as a complete free version, providing all features and upda
 Unlock the full potential of your PC with ASTRA32! Download now and start exploring the depths of your computer's hardware!
 
 ---
-**Last updated:** 2026-09-22 09:48:04 UTC
+**Last updated:** 2026-09-22 14:36:47 UTC
